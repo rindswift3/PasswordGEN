@@ -1,3 +1,5 @@
+print("Generating Passwords. Hope you have enough space :D ")
+
 # Import the itertools module
 import itertools
 
